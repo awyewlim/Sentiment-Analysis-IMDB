@@ -4,5 +4,5 @@ This work is to analyze movie reviews from IMDB dataset using a simple logistic 
 ## Key Concepts of this work
 - Build and employ a logistic regression classifier using [scikit-learn](https://scikit-learn.org/stable/)
 - Clean and pre-process text data
-- Perform feature extraction with [nltk](https://www.nltk.org/)
+- Perform feature extraction with [NLTK](https://www.nltk.org/)
 - Tune model hyperparameters and evaluate model accuracy
